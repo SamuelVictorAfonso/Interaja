@@ -1,0 +1,10 @@
+div{
+    background-color: gray;
+    font: normal 22pt italic;
+    text-align: center;
+    margin: 200px auto 200px auto;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    border-radius: 30em;
+}
